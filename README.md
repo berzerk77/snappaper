@@ -50,7 +50,7 @@ The information is primarily needed to maintain the security and operation of ou
 
 
 
-# 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+### 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
@@ -70,7 +70,7 @@ Business Transfers. We may share or transfer your information in connection with
 
 
 
-# 3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+### 3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 
 In Short:  We may transfer, store, and process your information in countries other than your own.
 
@@ -81,7 +81,7 @@ If you are a resident in the European Economic Area, then these countries may no
 
 
 
-# 4. HOW LONG DO WE KEEP YOUR INFORMATION?
+### 4. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
@@ -91,7 +91,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 
 
-# 5. HOW DO WE KEEP YOUR INFORMATION SAFE?
+### 5. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short:  We aim to protect your personal information through a system of organizational and technical security measures.
 
@@ -100,7 +100,7 @@ We have implemented appropriate technical and organizational security measures d
 
 
 
-# 6. WHAT ARE YOUR PRIVACY RIGHTS?
+### 6. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short:  You may review, change, or terminate your account at any time.
 
@@ -112,14 +112,14 @@ If you are resident in Switzerland, the contact details for the data protection 
 
 
 
-# 7. CONTROLS FOR DO-NOT-TRACK FEATURES
+### 7. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
 
 
 
-# 8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+### 8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
@@ -130,7 +130,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 
 
-# 9. DO WE MAKE UPDATES TO THIS NOTICE?
+### 9. DO WE MAKE UPDATES TO THIS NOTICE?
 
 In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
@@ -139,7 +139,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 
 
-# 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+### 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at georgekarani97@gmail.com or by post to:
 
